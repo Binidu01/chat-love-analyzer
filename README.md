@@ -1,73 +1,116 @@
-# Welcome to your Lovable project
+<div align="center">
+  
+# chat-love-analyzer
 
-## Project info
+Upload your WhatsApp chat and discover the hidden patterns of love! Find out how much they care based on response times, emojis, and conversation flow.
 
-**URL**: https://lovable.dev/projects/7f4ed4cf-3d67-4fee-a15e-51c0ff27015c
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=white)
 
-## How can I edit this code?
+[![Stars](https://img.shields.io/github/stars/Binidu01/chat-love-analyzer?style=for-the-badge&logo=github)](https://github.com/Binidu01/chat-love-analyzer/stargazers)
+[![Forks](https://img.shields.io/github/forks/Binidu01/chat-love-analyzer?style=for-the-badge&logo=github)](https://github.com/Binidu01/chat-love-analyzer/network/members)
+[![Issues](https://img.shields.io/github/issues/Binidu01/chat-love-analyzer?style=for-the-badge&logo=github)](https://github.com/Binidu01/chat-love-analyzer/issues)
+[![License](https://img.shields.io/github/license/Binidu01/chat-love-analyzer?style=for-the-badge)](https://github.com/Binidu01/chat-love-analyzer/blob/main/LICENSE)
 
-There are several ways of editing your application.
+</div>
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7f4ed4cf-3d67-4fee-a15e-51c0ff27015c) and start prompting.
+## 📋 Table of Contents
 
-Changes made via Lovable will be committed automatically to this repo.
+- [🚀 Features](#-features)
+- [🛠️ Installation](#️-installation)
+- [💻 Usage](#-usage)
+- [🏗️ Built With](#️-built-with)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📞 Contact](#-contact)
+- [🙏 Acknowledgments](#-acknowledgments)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- ✨ Modern and intuitive user interface
+- 🔥 High performance and scalability
+- 🛡️ Secure and reliable
+- 📱 Responsive design
+- 🌐 Cross-platform compatibility
 
-Follow these steps:
+## 🛠️ Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/Binidu01/wayback-peek.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Navigate to project directory
+cd wayback-peek
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 💻 Usage
 
-**Use GitHub Codespaces**
+```bash
+# Basic usage example
+chat-love-analyzer --help
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+For more detailed usage instructions, please refer to our [documentation](https://chat-love-analyzer.lovable.app).
 
-## What technologies are used for this project?
+## 🏗️ Built With
 
-This project is built with:
+- **TypeScript** - 97.8%
+- **CSS** - 1.4%
+- **HTML** - 0.4%
+- **JavaScript** - 0.4%
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 Contributing
 
-## How can I deploy this project?
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Simply open [Lovable](https://lovable.dev/projects/7f4ed4cf-3d67-4fee-a15e-51c0ff27015c) and click on Share -> Publish.
+1. Fork the Project
+2. Create your Feature Branch `git checkout -b feature/AmazingFeature`
+3. Commit your Changes `git commit -m Add some AmazingFeature`
+4. Push to the Branch `git push origin feature/AmazingFeature`
+5. Open a Pull Request
 
-## Can I connect a custom domain to my Lovable project?
+## 📄 License
 
-Yes, you can!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 📞 Contact
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Binidu01** - [@Binidu01](https://github.com/Binidu01)
+
+Project Link: [https://github.com/Binidu01/chat-love-analyzer](https://github.com/Binidu01/chat-love-analyzer)
+
+🌐 Website: [https://chat-love-analyzer.lovable.app](https://chat-love-analyzer.lovable.app)
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who have helped this project grow
+- Special thanks to the open source community
+- Built with ❤️ and lots of ☕
+
+---
+
+<div align="center">
+  
+**[⬆ Back to Top](#chat-love-analyzer)**
+
+Made with ❤️ by [Binidu01](https://github.com/Binidu01)
+
+⭐ Star this repo if you find it useful!
+
+</div>
